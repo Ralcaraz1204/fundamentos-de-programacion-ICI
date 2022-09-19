@@ -12,6 +12,14 @@
 |4|-9|NO|NO|--|1+1=2|2|
 |5|0|SI|--|--|--|HAY DOS POSITIVOS Y DOS NEGATIVOS|
 
+**ENTRADAS**
+
+NUM
+
+**SALIDAS**
+
+"DAME UN NUMERO ENTERO, 0 PARA TERMIAR"||"+",CP   "-",CN
+
 *EJERCICIO 20*
 
 Capturar si un numero es negativo o positivo y contar del 0 a ese numero
